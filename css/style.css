@@ -54,10 +54,10 @@ body
 }
 .f_foot
 {
-	font-size: 15px;
+	font-size: 10px;
 	background: hsl(244, 38%, 16%);
 	color: hsla(0, 0%, 100%, 0.6);
-	word-spacing: 46px;
+	word-spacing: 76px;
 	letter-spacing: 1px;
 	display: inline-block;
 }
